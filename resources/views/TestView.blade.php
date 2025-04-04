@@ -6,6 +6,6 @@
     <title>Document</title>
 </head>
 <body>
-    <h1> Hola bienvenido a mi app de Laravel</h1>
+    <h1>Hola bienvenido a mi vista </h1>
 </body>
 </html>
